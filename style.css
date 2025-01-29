@@ -220,8 +220,8 @@ section {
 }
 
 .footer {
-    background-color: ##f7f7f7;
-    color: #fff;
+    background-color: #f7f7f7;
+    color: #0e0101;
     padding: 2em;
     display: flex;
     justify-content: space-between;
